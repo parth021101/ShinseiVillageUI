@@ -26,4 +26,4 @@ A pixel-perfect frontend clone of the Shinsei Village project landing page, buil
 ## Live Demo
 
 Explore the live version of the Shinsei Village Landing Page here:
-[woolheven.netlify.app](https://shinsevillageui.netlify.app/)
+[shinsevillageui.netlify.app](shinsevillageui.netlify.app)
